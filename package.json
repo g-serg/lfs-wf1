@@ -1,0 +1,27 @@
+{
+  "name": "lfs-wf1",
+  "version": "1.0.0",
+  "description": "install",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/g-serg/lfs-wf1.git",
+  "keywords": [],
+  "author": "g-serg <mr-sergey2004@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-serg/lfs-wf1/issues"
+  },
+  "homepage": "https://github.com/g-serg/lfs-wf1#readme",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.2.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
